@@ -50,6 +50,7 @@ packaging==24.1
 pandas==2.2.3
 pillow==10.4.0
 plotly==5.24.1
+ptwt==0.1.9
 prometheus_client==0.21.0
 protobuf==4.25.5
 pyarrow==17.0.0
