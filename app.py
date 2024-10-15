@@ -81,7 +81,7 @@ from page.arrythmia_detection import ArrhythmiaAnalysis
 st.set_page_config(layout="wide")
 # tab1, tab2 = st.tabs(["📈 Chart", "🗃 Data"])
 
-tab1, tab2, tab3,tab4 = st.tabs(["📈 Preprocessing", "🗃 Descriptive Analysis", "📊 Predictive Analysis","Arrhythia Detection"])
+tab1, tab2, tab3,tab4 = st.tabs(["📈 ECG Purifier", "🗃 ECG Insights & Analysis", "📊 Predictive Analysis","Arrhythia Detection"])
 
 data = f"mit-bih-arrhythmia-database-1.0.0/100"
 
